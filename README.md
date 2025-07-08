@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/fswair/safe-typing)
+
 Safe Typing is a module that provides a safe way to access types within the typing namespace.
 It attempts to import types from the standard `typing` module first, and if not found,
 it falls back to the `typing_extensions` module.
